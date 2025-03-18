@@ -2,6 +2,9 @@
 
 A **fun and secure** password generator built with React.js, Vite, and Tailwind CSS. Never worry about weak passwords again—this app crafts strong and unpredictable ones like a wizard! 🧙‍♂️✨
 
+🔗 **Live Demo:** [Password Generator](https://password-generator-oqo6.onrender.com)
+
+
 ## 🎯 Features
 
 - ⚡ Generate random passwords instantly
